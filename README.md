@@ -1,6 +1,6 @@
 # Nis0's Portfolio
 
-Hello, I'm Nis0, I've been scripting on roblox for 2-3 years, Here are some of my past work that are usually used for most games
+Hello, I'm Nis0, I've Been Scripting on Roblox for 2-3 years, Here are Some of My Past Work That are Usually Used for Most Games
 
 Level Up System
 https://gyazo.com/6aff135c49341303859e675f4c95e943
@@ -18,4 +18,4 @@ Inventory System
 https://gyazo.com/8a9a165cff7916011039af65cd4ff00c
 
 Anime Ability
-https://gyazo.com/9a19f7f8a212e02d0dc6a9a4b467639a
+https://gyazo.com/9a19f7f8a212e02d0dc6a9a4b467639a\
